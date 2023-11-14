@@ -26,10 +26,13 @@ html{font-size: 100%;
 
 .main-nav a :hover{
   color: #0bd;
+  
 }
 .page-header{
   display: flex;
-  justify-content:center;
+  gap: 4px 6px;
+  justify-content: center;
+  
 }
 
 .wrapper{
@@ -54,7 +57,7 @@ html{font-size: 100%;
 .page-title1{
   color: white;
   font-size: 36px;
-  left: 50%;
+  left: 40%;
   position: absolute;
   top: 20%;
 }
@@ -67,6 +70,13 @@ html{font-size: 100%;
   top: 25% ;
 }
 
+.about{
+  color: #ffd61a;
+  font-size: 24px;
+}
+.p{
+  text-align: center;
+}
 
 
 .pic{
